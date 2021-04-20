@@ -1,2 +1,5 @@
 # hello-world
-my introduction to the coding world! :)
+
+Hi! 
+
+I am looking forward to learning more about computer science. :)
